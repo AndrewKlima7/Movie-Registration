@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Movie_Registration.Controllers
+namespace Movie_Registration.Controllers 
 {
     public class MovieController : Controller
     {
